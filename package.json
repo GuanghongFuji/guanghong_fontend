@@ -10,8 +10,11 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
+    "axios": "^0.15.3",
     "element-ui": "^1.0.8",
-    "vue": "^2.1.7"
+    "vue": "^2.1.7",
+    "vue-router": "^2.1.1",
+    "vuex": "^2.1.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.4.0",
@@ -26,7 +29,6 @@
     "compression-webpack-plugin": "^0.3.2",
     "connect-history-api-fallback": "^1.1.0",
     "css-loader": "^0.25.0",
-    "eslint": "^3.7.1",
     "eslint-config-airbnb-base": "^8.0.0",
     "eslint-friendly-formatter": "^2.0.5",
     "eslint-import-resolver-webpack": "^0.6.0",
