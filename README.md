@@ -21,3 +21,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 when you finished run **yarn run build** , you can **git push** dist folder to 
 >git@github.com:GuanghongFuji/guanghongfuji.github.com.git
+
